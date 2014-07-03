@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline;
+    margin-left: 10px;
+    padding: 0;
+    background-color: lightblue;
+    font-size: 30px
+}
+
+.onMouseHover{
+    margin-left: 10px;
+    padding: 0;
+    background-color: cornflowerblue;
+    font-size: 32px;
+}
+
+.menu{
+    height: 38px;
+    background-color: lightblue;
+    }
